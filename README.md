@@ -1,0 +1,1 @@
+“Built a web scraper using Python (BeautifulSoup) to collect 500+ job postings, analyzed skill demand trends, and visualized results with Pandas & Matplotlib. Automated data storage and developed a dashboard for insights.”
